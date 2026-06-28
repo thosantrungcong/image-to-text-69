@@ -1,0 +1,15 @@
+MIT LICENSE
+
+This project was developed for educational purposes and as a course report.
+
+The entire source code, image processing structure, and model evaluation process belong to the project's author.
+
+Users may refer to, modify, and rerun the project for personal study or research purposes.
+
+This project may not be used for commercial purposes, copied and resubmitted as someone else's work, or redistributed without the author's consent.
+
+The sample dataset in this project is for testing the OCR model only.
+
+If using real invoice/receipt images, ensure they do not contain sensitive personal information or private data of others.
+
+© 2026 Gia Khang. All rights reserved.
